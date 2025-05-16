@@ -9,3 +9,7 @@ yarn-error.log*
 .pnp.js
 
 .vscode/*
+/test-results/
+/playwright-report/
+/.idea/
+package-lock.json
